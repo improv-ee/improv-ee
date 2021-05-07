@@ -35,7 +35,7 @@
     "jquery": "^3.5.1",
     "laravel-mix": "^5.0",
     "laravel-vue-pagination": "^2.3.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mdbootstrap": "4.8.9",
     "moment": "^2.29.1",
     "popper.js": "^1.16.1",
